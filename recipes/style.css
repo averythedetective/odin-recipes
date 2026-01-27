@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+  width: 800px;
+  margin: 0 auto;
+  color: rgb(95, 11, 0);
+}
+
+h1,
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(165, 87, 42);
+}
+
+a {
+  color: green;
+}
